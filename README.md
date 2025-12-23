@@ -31,6 +31,7 @@ cd VampireHunterRemake
 
 ## Open in Unity Hub
 The project should auto-configure
+```
 
 ## AI System
 
@@ -40,22 +41,25 @@ The project should auto-configure
 - Neural Networks trained via self-play
 
 ## 📁 Project Structure
+
 Assets/
-├── Core/              # Game systems
-├── AI/               # Machine Learning agents
-├── UI/               # User interface
-├── Audio/            # Sound effects and music
-└── ThirdParty/       # External assets
+├── Core/ # Game systems
+├── AI/ # Machine Learning agents
+├── UI/ # User interface
+├── Audio/ # Sound effects and music
+└── ThirdParty/ # External assets
 
 ## Development
 
-Branch Strategy
+### Branch Strategy
+
 - main - Stable releases
 - develop - Integration branch
-- feature/* - New features
-- bugfix/* - Bug fixes
+- feature/\* - New features
+- bugfix/\* - Bug fixes
 
-Commit Convention
+### Commit Convention
+
 - feat: New feature
 - fix: Bug fix
 - docs: Documentation
@@ -77,4 +81,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Blizzard Entertainment for the original Warcraft 3
 - Unity Technologies for ML-Agents
 - The WC3 custom map community
+
+```
+
 ```
