@@ -42,12 +42,14 @@ The project should auto-configure
 
 ## 📁 Project Structure
 
+```bash
 Assets/
 ├── Core/ # Game systems
 ├── AI/ # Machine Learning agents
 ├── UI/ # User interface
 ├── Audio/ # Sound effects and music
 └── ThirdParty/ # External assets
+```
 
 ## Development
 
